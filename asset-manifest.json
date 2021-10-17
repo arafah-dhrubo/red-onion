@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/red-onion/static/css/main.ab78efdd.chunk.css",
+    "main.js": "/red-onion/static/js/main.799d322d.chunk.js",
+    "main.js.map": "/red-onion/static/js/main.799d322d.chunk.js.map",
+    "runtime-main.js": "/red-onion/static/js/runtime-main.d7fd43fc.js",
+    "runtime-main.js.map": "/red-onion/static/js/runtime-main.d7fd43fc.js.map",
+    "static/js/2.291eced5.chunk.js": "/red-onion/static/js/2.291eced5.chunk.js",
+    "static/js/2.291eced5.chunk.js.map": "/red-onion/static/js/2.291eced5.chunk.js.map",
+    "static/js/3.fd7d705e.chunk.js": "/red-onion/static/js/3.fd7d705e.chunk.js",
+    "static/js/3.fd7d705e.chunk.js.map": "/red-onion/static/js/3.fd7d705e.chunk.js.map",
+    "index.html": "/red-onion/index.html",
+    "static/css/main.ab78efdd.chunk.css.map": "/red-onion/static/css/main.ab78efdd.chunk.css.map",
+    "static/js/2.291eced5.chunk.js.LICENSE.txt": "/red-onion/static/js/2.291eced5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/red-onion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7fd43fc.js",
+    "static/js/2.291eced5.chunk.js",
+    "static/css/main.ab78efdd.chunk.css",
+    "static/js/main.799d322d.chunk.js"
+  ]
+}
