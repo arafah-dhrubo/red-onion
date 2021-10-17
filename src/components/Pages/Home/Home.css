@@ -1,0 +1,13 @@
+.menu-btn{
+    border-bottom: 3px solid white;
+}
+.menu-btn:hover{
+    color: rgb(210, 0, 0);
+    border-bottom: 3px solid rgb(210, 0, 0);
+    transition: 0.5s;
+}
+
+.dishes:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    transition: 0.5s;
+}
